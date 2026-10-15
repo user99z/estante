@@ -1,0 +1,26 @@
+{
+  "name": "Estante — Biblioteca de Estudos",
+  "short_name": "Estante",
+  "description": "Biblioteca de materiais e estudos com armazenamento local e sincronização criptografada opcional.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101517",
+  "theme_color": "#101517",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
